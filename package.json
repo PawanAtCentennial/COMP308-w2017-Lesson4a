@@ -1,0 +1,39 @@
+{
+  "name": "comp308-w2017-lesson4a",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "npm": ">=5.6.0",
+    "node": ">=9.4.0"
+  },
+  "dependencies": {
+    "body-parser": "~1.18.2",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "ejs": "~2.5.7",
+    "express": "~4.15.5",
+    "morgan": "~1.9.0",
+    "serve-favicon": "~2.4.5"
+  },
+  "description": "use **`npm install`** to install your project dependencies",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PawanAtCentennial/COMP308-w2017-Lesson4a.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "express",
+    "js"
+  ],
+  "author": "pawan vig",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PawanAtCentennial/COMP308-w2017-Lesson4a/issues"
+  },
+  "homepage": "https://github.com/PawanAtCentennial/COMP308-w2017-Lesson4a#readme"
+}

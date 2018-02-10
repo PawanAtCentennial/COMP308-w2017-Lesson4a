@@ -1,0 +1,29 @@
+{
+  "name": "comp308-w2017-lesson4a",
+  "description": "use **`npm install`** to install your project dependencies",
+  "main": "server.js",
+  "authors": [
+    "pawan vig"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "node",
+    "js",
+    "express",
+    "js"
+  ],
+  "homepage": "https://github.com/PawanAtCentennial/COMP308-w2017-Lesson4a",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/Scripts/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "2.2.4",
+    "bootstrap": "^4.0.0",
+    "font-awesome": "^4.7.0"
+  }
+}
